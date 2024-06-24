@@ -1,3 +1,5 @@
+[LiveSite](https://widdou-learn-control-presupuesto.netlify.app/)
+
 # Context API
 
 Pemirte tener un Estado Global dentro de la App. `useContext`
@@ -36,12 +38,13 @@ Se recomienda utilizar un `customHook` para el contexto
 4. Envolver la aplicación con el Provider
 5. Construir un CustomHook que maneje la llamada al contexto para simplicar su consumo
 
-# Librerias: Headless UI & HeroIcons + React-Date-Picker
+# Librerias: 
 
 Para los modales de `ExpenseModal`
 `npm i @headlessui/react`
 `npm i @heroicons/react`
 
+- Headless UI & HeroIcons
 - React Date Picker
 - UUID V4
 - react-swipeable-list  =>  Deslizar cartas en una lista
